@@ -71,7 +71,7 @@ NetInstaller用のはあとで書く。というか配布するやり方を忘�
 ------
 
 ### バグ報告、要望、質問など
-* [Github Issues](https://github.com/bowbow99/xyzzy.lisp-mode-extra/issues)
+* [Github Issues](https://github.com/bowbow99/xyzzy.list-edit-mode/issues)
 * [bowbow99 のツイッター](https://twitter.com/bowbow99)
 * [bowbow99 のはてダ](http://d.hatena.ne.jp/bowbow99)
 * 2ch の xyzzy part.# にカキコ
